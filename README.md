@@ -1,10 +1,9 @@
-# news_app
+# NewsHub
 
-A new Flutter project.
+This is an application which uses NewsAPI to get various resources. It makes use of WebView and CachedImageNetworking for displaying the news in the feed. We can get news of a particular category by ging to th slider window on top of the home page.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
+## Screenshots
+![Home Page](http://url/to/img.png)
 
 
 A few resources to get you started if this is your first Flutter project:
