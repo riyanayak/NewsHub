@@ -12,12 +12,5 @@ This is an application which uses NewsAPI to get various resources. It makes use
 
 ## Videos
 
-https://user-images.githubusercontent.com/83768124/176279934-f7567c13-75c7-4348-ab16-70641f335af9.mp4
-
-
-
-
-
-
 https://user-images.githubusercontent.com/83768124/176279978-2209427d-ed73-4ede-b260-017c93076a52.mp4
 
