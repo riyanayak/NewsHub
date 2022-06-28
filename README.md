@@ -1,4 +1,4 @@
-# NewsHub
+## NewsHub
 
 This is an application which uses NewsAPI to get various resources. It makes use of WebView and CachedImageNetworking for displaying the news in the feed. We can get news of a particular category by ging to th slider window on top of the home page.
 
@@ -10,5 +10,14 @@ This is an application which uses NewsAPI to get various resources. It makes use
   <img src="news.png" width="705" alt="Beam">
 </p>
 
-https://user-images.githubusercontent.com/83768124/176271186-b007eeab-0474-4dc1-9ae4-c11b3d1967ec.mp4
+## Videos
+
+https://user-images.githubusercontent.com/83768124/176279934-f7567c13-75c7-4348-ab16-70641f335af9.mp4
+
+
+
+
+
+
+https://user-images.githubusercontent.com/83768124/176279978-2209427d-ed73-4ede-b260-017c93076a52.mp4
 
