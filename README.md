@@ -1,6 +1,6 @@
 ## NewsHub
 
-This is an application which uses NewsAPI to get various resources. It makes use of WebView and CachedImageNetworking for displaying the news in the feed. We can get news of a particular category by ging to th slider window on top of the home page.
+This is an application which uses NewsAPI to get various resources. It makes use of WebView and CachedImageNetworking for displaying the news in the feed. We can get news of a particular category by going to the slider window on the top of the home page.
 
 ## Screenshots
 
