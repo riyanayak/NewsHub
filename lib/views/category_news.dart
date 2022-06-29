@@ -41,7 +41,7 @@ class _CategoryViewState extends State<CategoryView> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             Text("News",style:TextStyle(color: Colors.black),),
-            Text("Hut",style:TextStyle(color: Colors.blueAccent),
+            Text("Hub",style:TextStyle(color: Colors.blueAccent),
             )
           ],
         ),
