@@ -7,10 +7,14 @@ This is an application which uses NewsAPI to get various resources. It makes use
 
 
 <p align="center">
-  <img src="news.png" width="705" alt="Beam">
+  <img src="news.png" width="705" alt="Screen">
 </p>
 
 ## Videos
 
-https://user-images.githubusercontent.com/83768124/176279978-2209427d-ed73-4ede-b260-017c93076a52.mp4
+https://user-images.githubusercontent.com/83768124/176384577-dea1f37f-bdf7-4939-80b7-8f1bfea22f71.mp4
+
+
+
+
 
